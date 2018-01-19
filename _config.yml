@@ -5,7 +5,7 @@ locale: en_ID
 description: Perumahan Alam Citra Panggungharjo Sewon Bantul Yogyakarta
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://www.alamcitra.id
 
 # Jekyll configuration
 paginate: 5
