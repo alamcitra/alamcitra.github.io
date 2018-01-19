@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pengurus Paguyuban Warga Alam Citra
+title: Hubungi Kami
 excerpt: "Hubungi Pengurus Paguyuban Warga Alam Citra"
 ---
 
-## Alamat
+## Pengurus Paguyuban Warga Alam Citra
 Perumahan Alam Citra RT 07 dan 08  
 Pdk. Cabeyan, Kel. Panggungharjo, Kec. Sewon, Kab. Bantul, DIY 55188  
 Telp. 08543092809 / 081904245551
