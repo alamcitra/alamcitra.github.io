@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Paguyuban
+  url: /paguyuban/
 
-- title: Articles
-  url: /articles/
+- title: Informasi
+  url: /informasi/
 
-- title: Blog
-  url: /blog/
+- title: Berita
+  url: /berita/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Hubungi Kami
+  url: /hubungi-kami/
 
-- title: Search
-  url: /search/
+- title: Cari
+  url: /cari/
