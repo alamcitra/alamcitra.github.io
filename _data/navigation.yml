@@ -1,4 +1,6 @@
 # Site navigation links
+- title: Beranda
+  url: /
 
 - title: Paguyuban
   url: /paguyuban/

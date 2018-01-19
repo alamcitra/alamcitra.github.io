@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Search"
-date: 
+title: "Cari Berita / Informasi"
+date:
 modified:
 excerpt:
 image:
@@ -9,12 +9,12 @@ image:
 search_omit: true
 sitemap: false
 ---
-  
+
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
-  <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
-  <input type="submit" value="Search" id="goog-wm-sb" />
+  <label for="q">Mencari {{ site.title }}:</label>
+  <input type="search" name="q" id="q" placeholder="Masukkan kata kunci pencarian disini" data-search-input id="goog-wm-qt" autofocus />
+  <input type="submit" value="Cari" id="goog-wm-sb" />
 </form>
 
 <!-- Search results placeholder -->
