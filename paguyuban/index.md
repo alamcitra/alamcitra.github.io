@@ -9,7 +9,7 @@ image:
 * Daftar Isi
 {:toc}
 
-## Tata-tertib warga
+## Tata-tertib Warga
 Belum ada konten
 
 <a href="#markdown-toc">&uarr; Kembali ke daftar isi</a>
