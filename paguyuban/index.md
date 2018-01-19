@@ -25,6 +25,36 @@ Belum ada konten
 <a href="#markdown-toc">&uarr; Kembali ke daftar isi</a>
 
 ## Struktur Organisasi
-Belum ada konten
+Susunan Pengurus Paguyuban  Warga Alam Citra 2018/2019
+
+**Ketua**  
+Patuh Sugiyarso
+
+**Wakil Ketua**    
+Ari Pambudi
+
+**Sekretaris**    
+Dani Praditya S. & Sahadi Eko
+
+**Bendahara**  
+Hadi Kushartono & Joko Triyono
+
+**Pemeriksa Keuangan**  
+Ben Yamin
+
+**Sie Keamanan**  
+Heru Purwanto & Nanang Legowo
+
+**Sie Kebersihan**  
+Andre Tanama & Deny
+
+**Sie Infrastruktur**  
+Muhammad Syauki & Rudy Yahya A.
+
+**Sie Sosial**  
+A. Ghofir & Rismono
+
+**Sie Karang Taruna**  
+Bhanu Basworo & Spica Pradityo
 
 <a href="#markdown-toc">&uarr; Kembali ke daftar isi</a>
