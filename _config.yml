@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: PWAC
+  name: Pengurus
   avatar: bio-photo.jpg
   email: alamcitra.id@gmail.com
   disqus-shortname:
