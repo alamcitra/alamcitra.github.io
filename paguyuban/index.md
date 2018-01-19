@@ -12,17 +12,17 @@ image:
 ## Tata-tertib Warga
 Belum ada konten
 
-<a href="{{ site.url }}/paguyuban#main">&uarr; Kembali ke daftar isi</a>
+<a href="#main">&uarr; Kembali ke daftar isi</a>
 
 ## AD / ART
 Belum ada konten
 
-<a href="{{ site.url }}/paguyuban#main">&uarr; Kembali ke daftar isi</a>
+<a href="#main">&uarr; Kembali ke daftar isi</a>
 
 ## Tentang Paguyuban
 Belum ada konten
 
-<a href="{{ site.url }}/paguyuban#main">&uarr; Kembali ke daftar isi</a>
+<a href="#main">&uarr; Kembali ke daftar isi</a>
 
 ## Struktur Organisasi
 Susunan Pengurus Paguyuban  Warga Alam Citra 2018/2019
@@ -57,4 +57,4 @@ A. Ghofir & Rismono
 **Sie Karang Taruna**  
 Bhanu Basworo & Spica Pradityo
 
-<a href="{{ site.url }}/paguyuban#main">&uarr; Kembali ke daftar isi</a>
+<a href="#main">&uarr; Kembali ke daftar isi</a>
