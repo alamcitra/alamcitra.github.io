@@ -25,7 +25,7 @@ Belum ada konten
 <a href="#main">&uarr; Kembali ke daftar isi</a>
 
 ## Struktur Organisasi
-Susunan Pengurus Paguyuban  Warga Alam Citra 2018/2019
+Susunan Pengurus Paguyuban Warga Alam Citra Periode Januari - Desember 2018
 
 **Ketua**  
 Patuh Sugiyarso
