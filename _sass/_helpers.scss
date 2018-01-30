@@ -63,11 +63,12 @@
    Image layout in <figure>
    ========================================================================== */
 
-figure {
+figure, ul {
 
   /* 2 images in a row. should be of equal height/width to maintain layout */
 
   &.half {
+
 
     @include media($large) {
 
@@ -81,6 +82,7 @@ figure {
       figcaption {
         clear: left;
       }
+
     }
   }
 
@@ -102,6 +104,50 @@ figure {
       }
     }
   }
+}
+
+ul{
+
+    &.half{
+
+      padding: 0;
+      list-style-type: none;
+      margin-top: $gutter;
+      margin-bottom: $gutter;
+
+      @include media($large) {
+
+        li{
+          width: 47.5%;
+          float: left;
+          margin-right: 2.5%;
+          margin-bottom: 2.5%;
+        }
+
+      }
+
+    }
+
+    &.third{
+
+      padding: 0;
+      list-style-type: none;
+      margin-top: $gutter;
+      margin-bottom: $gutter;
+
+      @include media($large) {
+
+        li{
+          width: 30.8%;
+          float: left;
+          margin-right: 2.5%;
+          margin-bottom: 2.5%;
+        }
+
+      }
+
+    }
+
 }
 
 /*
