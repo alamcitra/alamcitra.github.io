@@ -10,3 +10,33 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+
+<h2 class="entry-title">Denah Alam Citra</h2>
+<div class="alcit-plan">
+  <a href="images/denah-alam-citra-plain-white.jpg">
+    <img src="{{ site.url }}/images/denah-alam-citra-plain-white-thumb.jpg">
+  </a>
+</div>
+
+<h2 class="entry-title">Galeri Foto</h2>
+<div class="home-gallery">
+  <figure class="third">
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(1).jpeg" title="Posyandu"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-001.jpg" title="Posyandu"></a>
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(2).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-002.jpg" title="Lomba 17-an"></a>
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(3).jpeg" title="Kerja Bakti"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-003.jpg" title="Kerja Bakti"></a>
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(4).jpeg" title="Kegiatan 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-004.jpg" title="Kegiatan 17-an"></a>
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(5).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-005.jpg" title="Lomba 17-an"></a>
+    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(6).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-006.jpg" title="Lomba 17-an"></a>
+  </figure>
+  <figcaption><a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a></figcaption>
+</div>
+
+<h2 class="entry-title">Daftar Usaha Warga Alam Citra</h2>
+<figure class="third">
+  <a href="{{ site.url }}/daftar-usaha/#usaha-1"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+  <a href="{{ site.url }}/daftar-usaha/#usaha-2"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+  <a href="{{ site.url }}/daftar-usaha/#usaha-3"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+  <a href="{{ site.url }}/daftar-usaha/#usaha-4"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+  <a href="{{ site.url }}/daftar-usaha/#usaha-5"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+  <a href="{{ site.url }}/daftar-usaha/#usaha-6"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
+</figure>
