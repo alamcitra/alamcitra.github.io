@@ -10,6 +10,8 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+<br>
+<a href="{{ site.url }}/berita/#pagetitle">Lihat semua berita warga &rarr;</a>
 
 <h2 class="entry-title">Satuan Pengamanan Alam Citra</h2>
 <div class="alcit-satpam">
@@ -42,6 +44,7 @@ search_omit: true
   <figcaption><a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a></figcaption>
 </div>
 
+<!--
 <h2 class="entry-title">Daftar Usaha Warga Alam Citra</h2>
 <figure class="third">
   <a href="{{ site.url }}/daftar-usaha/#usaha-1"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
@@ -51,3 +54,4 @@ search_omit: true
   <a href="{{ site.url }}/daftar-usaha/#usaha-5"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
   <a href="{{ site.url }}/daftar-usaha/#usaha-6"><img src="{{ site.url }}/images/dummy-gambar-usaha.jpg"></a>
 </figure>
+-->
