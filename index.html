@@ -31,15 +31,11 @@ search_omit: true
 <h2 class="entry-title">Galeri Foto</h2>
 <div class="home-gallery">
   <figure class="third">
-    <a class="image-popup" href="{{ site.url }}/images/2018-april/kerjabakti/001.jpg" title="Kerja Bakti Warga April 2018"><img src="{{ site.url }}/images/2018-april/kerjabakti/thumb/001.jpg" title="Kerja Bakti Warga April 2018"></a>
-    <a class="image-popup" href="{{ site.url }}/images/2018-april/kerjabakti/002.jpg" title="Kerja Bakti Warga April 2018"><img src="{{ site.url }}/images/2018-april/kerjabakti/thumb/002.jpg" title="Kerja Bakti Warga April 2018"></a>
-    <a class="image-popup" href="{{ site.url }}/images/2018-april/kerjabakti/003.jpg" title="Kerja Bakti Warga April 2018"><img src="{{ site.url }}/images/2018-april/kerjabakti/thumb/003.jpg" title="Kerja Bakti Warga April 2018"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(1).jpeg" title="Posyandu"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-001.jpg" title="Posyandu"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(2).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-002.jpg" title="Lomba 17-an"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(3).jpeg" title="Kerja Bakti"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-003.jpg" title="Kerja Bakti"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(4).jpeg" title="Kegiatan 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-004.jpg" title="Kegiatan 17-an"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(5).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-005.jpg" title="Lomba 17-an"></a>
-    <a href="{{ site.url }}/images/dari-mas-dani/kegiatan-alcit-(6).jpeg" title="Lomba 17-an"><img src="{{ site.url }}/images/dari-mas-dani/thumb/kegiatan-alcit-006.jpg" title="Lomba 17-an"></a>
+    <figure class="third">
+      {% for i in (1..12) %}
+        <a class="image-popup" href="{{ site.url }}/images/2018-april/kerjabakti/0{{ i }}.jpg"><img src="{{ site.url }}/images/2018-april/kerjabakti/thumb/0{{ i }}.jpg"></a>
+      {% endfor %}
+    </figure>
   </figure>
   <figcaption><a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a></figcaption>
 </div>
