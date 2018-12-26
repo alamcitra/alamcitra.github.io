@@ -17,9 +17,10 @@ Kerja bakti dimulai pukul 07.00 WIB dan diikuti sekitar 50 warga. Kerja bakti ka
 
 Setelah kerja bakti warga berkumpul di taman blok E sembari makan dan minum yang telah disediakan oleh Paguyuban, serta berbincang ringan tentang realisasi pembangunan gedung serba guna warga, pemilihan RT selanjutnya, dan hal lainnya.
 
-{% for i in (1..9) %}
-  <img src="{{ site.url }}/images/2018-april/kerjabakti/00{{ i }}.jpg">
-{% endfor %}
-{% for i in (11..51) %}
-  <img src="{{ site.url }}/images/2018-april/kerjabakti/0{{ i }}.jpg">
-{% endfor %}
+<figure class="third">
+  {% for i in (1..12) %}
+    <a class="image-popup" href="{{ site.url }}/images/2018-april/kerjabakti/0{{ i }}.jpg"><img src="{{ site.url }}/images/2018-april/kerjabakti/thumb/0{{ i }}.jpg"></a>
+  {% endfor %}
+</figure>
+
+<a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a>
