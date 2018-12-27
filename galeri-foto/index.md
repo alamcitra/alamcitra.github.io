@@ -9,9 +9,18 @@ excerpt: "Galeri Foto Kegiatan Warga di Alam Citra"
   <!-- Update Agustus 2018 -->
   <div id="2018-08"></div>
 
+  <h3>Idul Adha dan Penyembelihan Hewan Qurban - 22 Agustus 2018</h3>
+  <figure class="third">
+    {% for i in (1..32) %} <!-- Total 75 -->
+      <a class="image-popup" href="{{ site.url }}/images/2018-agustus/idul-qurban/{{ i }}.jpg">
+        <img src="{{ site.url }}/images/2018-agustus/idul-qurban/thumb/{{ i }}.jpg">
+      </a>
+    {% endfor %}
+  </figure>
+
   <h3>Malam Tirakatan dan Pentas Seni - 16 Agustus 2018</h3>
   <figure class="third">
-    {% for i in (1..48) %} <!-- Total 82 -->
+    {% for i in (1..36) %} <!-- Total 82 -->
       <a class="image-popup" href="{{ site.url }}/images/2018-agustus/malam-tirakatan/{{ i }}.jpg">
         <img src="{{ site.url }}/images/2018-agustus/malam-tirakatan/thumb/{{ i }}.jpg">
       </a>
@@ -20,7 +29,7 @@ excerpt: "Galeri Foto Kegiatan Warga di Alam Citra"
 
   <figure class="third">
     <h3>Senam Bersama, Sarapan Bersama, Pemilihan RT - 12 Agustus 2018</h3>
-    {% for i in (1..48) %} <!-- Total 89 -->
+    {% for i in (1..36) %} <!-- Total 89 -->
       <a class="image-popup" href="{{ site.url }}/images/2018-agustus/pemilihan-rt/{{ i }}.jpg">
         <img src="{{ site.url }}/images/2018-agustus/pemilihan-rt/thumb/{{ i }}.jpg">
       </a>
