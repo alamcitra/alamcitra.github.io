@@ -8,7 +8,7 @@ search: true
 url: https://www.alamcitra.id
 
 # Jekyll configuration
-permalink:   /:categories/:title/
+permalink:   /:categories/:year/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
