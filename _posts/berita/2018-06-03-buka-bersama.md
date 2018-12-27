@@ -15,4 +15,4 @@ Buka bersama seluruh warga muslim alam citra yang diawali pengajian menjelang be
   {% endfor %}
 </figure>
 
-<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>
+<a href="{{ site.url }}/galeri-foto/#2018-06">Lihat selengkapnya di galeri foto &rarr;</a>

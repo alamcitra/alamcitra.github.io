@@ -17,4 +17,4 @@ Kerja bakti rutin sekaligus menyambut event Hari Kemerdekaan RI. Kerja bakti dif
   {% endfor %}
 </figure>
 
-<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>
+<a href="{{ site.url }}/galeri-foto/#2018-08">Lihat selengkapnya di galeri foto &rarr;</a>

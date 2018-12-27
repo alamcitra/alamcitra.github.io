@@ -15,4 +15,4 @@ Salah satu kegiatan karang taruna alam citra dalam rangka menyambut Bulan Suci R
   {% endfor %}
 </figure>
 
-<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>
+<a href="{{ site.url }}/galeri-foto/#2018-05">Lihat selengkapnya di galeri foto &rarr;</a>
