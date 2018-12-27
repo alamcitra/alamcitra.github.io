@@ -3,12 +3,6 @@ layout: post
 title: "Peninggian Tepian Sungai"
 excerpt: "Foto Peninggian Tepian Sungai Alam Citra"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---

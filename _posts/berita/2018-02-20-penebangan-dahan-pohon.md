@@ -3,12 +3,6 @@ layout: post
 title: "Penebangan Pohon dan Dahan Pohon Alam Citra"
 excerpt: "Foto Penebangan Pohon dan Dahan Pohon di Lingkungan Alam Citra"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---

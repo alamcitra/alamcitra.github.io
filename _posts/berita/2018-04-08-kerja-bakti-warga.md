@@ -3,12 +3,6 @@ layout: post
 title: "Kerja Bakti Warga April 2018"
 excerpt: "Foto Kerja Bakti Warga Alam Citra Bulan April 2018"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
@@ -23,4 +17,4 @@ Setelah kerja bakti warga berkumpul di taman blok E sembari makan dan minum yang
   {% endfor %}
 </figure>
 
-<a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a>
+<a href="{{ site.url }}/galeri-foto/#2018-04">Lihat selengkapnya di galeri foto &rarr;</a>
