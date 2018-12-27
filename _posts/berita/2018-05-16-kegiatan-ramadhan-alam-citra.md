@@ -3,12 +3,6 @@ layout: post
 title: "Kegiatan Ramadhan di Alam Citra"
 excerpt: "Kegiatan Umat Muslim di Alam Citra saat Bulan Suci Ramadhan"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---

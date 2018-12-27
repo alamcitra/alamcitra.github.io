@@ -6,6 +6,14 @@ excerpt: "Galeri Foto Kegiatan Warga di Alam Citra"
 
 <div class="home-gallery">
 
+  <!-- Update 6 Juni 2018 -->
+  <figure class="third">
+  <h3>Buka Bersama Warga Alam Citra - 3 Juni 2018</h3>
+    {% for i in (1..16) %}
+      <a class="image-popup" href="{{ site.url }}/images/2018-juni/buka-bersama/{{ i }}.jpg"><img src="{{ site.url }}/images/2018-juni/buka-bersama/thumb/{{ i }}.jpg"></a>
+    {% endfor %}
+  </figure>
+
   <!-- Update 17 Mei 2018 -->
   <h3>Bazaar Karang Taruna Alam Citra - 17 Mei 2018</h3>
   <figure class="third">

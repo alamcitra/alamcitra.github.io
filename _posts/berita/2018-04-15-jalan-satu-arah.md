@@ -3,12 +3,6 @@ layout: post
 title: "Penerapan Jalan Satu Arah"
 excerpt: "Penerapan jalan satu arah di beberapa jalan sempit dan rawan kecelakaan"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---

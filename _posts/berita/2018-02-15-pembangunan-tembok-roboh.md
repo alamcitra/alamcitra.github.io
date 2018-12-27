@@ -3,12 +3,6 @@ layout: post
 title: "Pembangunan Tembok Pembatas Kompleks yang Roboh"
 excerpt: "Foto Pembangunan Tembok Pembatas Kompleks yang Roboh di Blok-A"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---

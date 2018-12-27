@@ -3,17 +3,11 @@ layout: post
 title: "Bazaar Karang Taruna"
 excerpt: "Kegiatan bazaar karang taruna alam citra dalam rangka menyambut Bulan Suci Ramadhan"
 categories: berita
-tags: # [sample-post, informasi]
-image:
-  feature: # gerbang-alam-citra-malam.jpg
-  path:  # /images/gerbang-alam-citra-malam.jpg
-  credit: # WeGraphics
-  creditlink: # http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
 
-Salah satu kegiatan karang taruna alam citra dalam rangka menyambut Bulan Suci Ramadhan. Bazaar bertempat di depan perumahan alam citra yang berbatasan langsung dengan jalan parangtritis. Kegiatan ini diadakan pada sore hari selepas waktu sholat ashar hingga sekitar pukul 17.00 WIB. 
+Salah satu kegiatan karang taruna alam citra dalam rangka menyambut Bulan Suci Ramadhan. Bazaar bertempat di depan perumahan alam citra yang berbatasan langsung dengan jalan parangtritis. Kegiatan ini diadakan pada sore hari selepas waktu sholat ashar hingga sekitar pukul 17.00 WIB.
 
 <figure class="third">
   {% for i in (1..12) %}
