@@ -14,3 +14,5 @@ Buka bersama seluruh warga muslim alam citra yang diawali pengajian menjelang be
     <a class="image-popup" href="{{ site.url }}/images/2018-juni/buka-bersama/{{ i }}.jpg"><img src="{{ site.url }}/images/2018-juni/buka-bersama/thumb/{{ i }}.jpg"></a>
   {% endfor %}
 </figure>
+
+<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>

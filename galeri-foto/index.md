@@ -6,6 +6,16 @@ excerpt: "Galeri Foto Kegiatan Warga di Alam Citra"
 
 <div class="home-gallery">
 
+  <!-- Update 5 Agustus 2018 -->
+  <figure class="third">
+    <h3>Kerja Bakti Warga - 5 Agustus 2018</h3>
+    {% for i in (1..47) %}
+      <a class="image-popup" href="{{ site.url }}/images/2018-agustus/kerja-bakti/{{ i }}.jpg">
+        <img src="{{ site.url }}/images/2018-agustus/kerja-bakti/thumb/{{ i }}.jpg">
+      </a>
+    {% endfor %}
+  </figure>
+
   <!-- Update 8 Juli 2018 -->
   <figure class="third">
     <h3>Syawalan Warga Alam Citra - 08 Juli 2018</h3>

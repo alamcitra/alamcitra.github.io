@@ -17,4 +17,4 @@ Setelah kerja bakti warga berkumpul di taman blok E sembari makan dan minum yang
   {% endfor %}
 </figure>
 
-<a href="{{ site.url }}/galeri-foto/">Lihat semua galeri &rarr;</a>
+<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>

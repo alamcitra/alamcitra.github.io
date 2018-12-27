@@ -14,3 +14,5 @@ Salah satu kegiatan karang taruna alam citra dalam rangka menyambut Bulan Suci R
     <a class="image-popup" href="{{ site.url }}/images/2018-mei/bazaar/{{ i }}.jpg"><img src="{{ site.url }}/images/2018-mei/bazaar/thumb/{{ i }}.jpg"></a>
   {% endfor %}
 </figure>
+
+<a href="{{ site.url }}/galeri-foto/">Lihat selengkapnya di galeri foto &rarr;</a>
