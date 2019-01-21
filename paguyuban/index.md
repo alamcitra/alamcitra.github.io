@@ -12,9 +12,9 @@ image:
 Selamat datang di Perumahan Alam Citra, dengan senang hati kami menyambut kehadiran Bapak/Ibu/Saudara. Demi menjaga keamanan, ketertiban, kenyamanan, kebersihan dan kebersamaan, Bapak/Ibu/Saudara dimohon untuk memperhatikan Tata Tertib berikut ini:
 
 ## Tata-tertib Warga
-1. Setelah Bp/Ibu/Sdr menempati rumah di Perumahan Alam Citra (baik rumah sendiri maupun kontrak), silahkan melapor secara adminstratif kepada Ketua Rukun Tetangga (RT) setempat. Ketua RT 07 adalah Bp. Yusuf Prasetyono (Blok A-10) yang wilayahnya meliputi Blok A dan B, sedang Ketua RT 08 adalah Bp. Suparyono (Blok E-15) yang wilayahnya meliputi Blok C, D, E, dan F dengan menyerahkan Fotokopi KTP dan Kartu Keluarga.
+1. Setelah Bp/Ibu/Sdr menempati rumah di Perumahan Alam Citra (baik rumah sendiri maupun kontrak), silahkan melapor secara adminstratif kepada Ketua Rukun Tetangga (RT) setempat. Ketua RT 07 adalah Bp. Darmono (Blok B-19) yang wilayahnya meliputi Blok A dan B, Ketua RT 08 adalah Bp. Satrio Hari W. (Blok E-20) yang wilayahnya meliputi Blok C, D, E, dan Ketua RT 09 Adalah Bp. Bhen Yamin (Blok F-43) dengan menyerahkan Fotokopi KTP dan Kartu Keluarga.
 2. Urusan administrasi kependudukan ditangani oleh Ketua Rukun Tetangga (RT), sedang pengelolaan keamanan, ketertiban, kenyamanan, kebersihan, dan kebersamaan kemasyarakatan ditangani oleh Pengurus Paguyuban Warga Alam Citra (PWAC).
-3. Untuk membantu pengelolaan keamanan, ketertiban, kenyamanan, kebersihan, dan kebersamaan Bp/lbu/Sdr diwajibkan membayar iuran bulanan sebesar Rp 100.000,- Penarikan iuran akan dilakukan oleh SATPAM dari tanggal 1 - 10 setiap bulan.
+3. Untuk membantu pengelolaan keamanan, ketertiban, kenyamanan, kebersihan, dan kebersamaan Bp/lbu/Sdr diwajibkan membayar iuran bulanan sebesar Rp 105.000,- Penarikan iuran akan dilakukan oleh SATPAM dari tanggal 1 - 10 setiap bulan.
 4. Bp/lbu/Sdr dimohon menjaga keamanan, ketertiban, kenyamanan, kebersihan, dan kebersamaan di lingkungan Perumahan Alam Citra dengan cara:   
     * Menyediakan tempat sampah dan membuang sampah di tempat sampah masing-masing  
     * Memarkir kendaraan dalam posisi yang tidak menghalangi kendaraan lain yang keluar masuk rumah maupun berlalu lalang di jalan perumahan
@@ -31,42 +31,72 @@ Selamat datang di Perumahan Alam Citra, dengan senang hati kami menyambut kehadi
 <a href="#pagetitle">&uarr; Kembali ke daftar isi</a>
 
 ## Tentang Paguyuban
-Pengurus Paguyuban Warga Alam Citra dibentuk untuk memenuhi kebutuhan warga Perumahan Alam Citra akan keamanan, ketertiban, kebersihan, kenyamanan, dan kebersamaan dalam lingkungan perumahan berdasarkan aspirasi warga serta rekomendasi Ketua RT 07 dan Ketua RT 08 Padukuhan Cabeyan, Kelurahan Panggungharjo, Kecamatan Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta.
+Pengurus Paguyuban Warga Alam Citra dibentuk untuk memenuhi kebutuhan warga Perumahan Alam Citra akan keamanan, ketertiban, kebersihan, kenyamanan, dan kebersamaan dalam lingkungan perumahan berdasarkan aspirasi warga serta rekomendasi Ketua RT 07, Ketua RT 08, dan Ketua RT 09 Padukuhan Cabeyan, Kelurahan Panggungharjo, Kecamatan Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta.
 
 <a href="#pagetitle">&uarr; Kembali ke daftar isi</a>
 
 ## Struktur Organisasi
-Susunan Pengurus Paguyuban Warga Alam Citra Periode Januari - Desember 2018
+Susunan Pengurus Paguyuban Warga Alam Citra Periode 2019-2020
+
+**Penanggungjawab**  
+Ketua RT 07 Bp. Darmono  
+Ketua RT 08 Bp. Satrio Hari W.  
+Ketua RT 09 Bp. Bhen Yamin  
+
+**Penasehat**  
+Bp. Suparyono
 
 **Ketua**  
-Patuh Sugiyarso
+Bp. Kusnendar
 
-**Wakil Ketua**    
-Ari Pambudi
+**Pengawas Keuangan**  
+Bp. Patuh Sugiyarso
 
-**Sekretaris**    
-Dani Praditya S. & Sahadi Eko
+**Wakil Ketua I**  
+Bp. Syamsu Tatang
 
-**Bendahara**  
-Hadi Kushartono & Joko Triyono
+**Wakil Ketua II**  
+Bp. Tri Cahyo Agung P.
 
-**Pemeriksa Keuangan**  
-Ben Yamin
+**Sekretaris**
+1. Bp. Spica Pradhityo
+2. Dimas Irawan Saputra
 
-**Sie Keamanan**  
-Heru Purwanto & Nanang Legowo
+**Bendahara**
+1. Bp. Chasanuddin
+2. Ibu Lia Heliana
 
-**Sie Kebersihan**  
-Andre Tanama & Deny
+**Seksi Hukum dan Humas**
+1. Bp. Ashadi Eko P.
+2. Bp. Tri Wantara
 
-**Sie Infrastruktur**  
-Muhammad Syauki & Rudy Yahya A.
+**Seksi Keamanan**
+1. Bp. Ardi Yudianto
+2. Bp. Lukman Haris
 
-**Sie Sosial**  
-A. Ghofir & Rismono
+**Seksi Kerohanian dan Sosial**
+1. Bp. Fauzi Erik Dangin
+2. Bp. Tatang Iskarna
 
-**Sie Karang Taruna**  
-Bhanu Basworo & Spica Pradityo
+**Seksi Pemuda**
+1. Bp. Bhanu Basworo
+2. Ketua Karang Taruna
+3. Wakil Karang Taruna
+
+**Seksi Lingkungan**
+1. Bp. Prastowo
+2. Bp. Bambang
+
+**Seksi Infrastruktur**
+1. Bp. Sigit Suryanto
+2. Bp. Taryanto
+
+**Seksi Peranan Wanita**
+1. Ibu Suparyono
+2. Ibu Ati Kohana
+3. Ibu Darmono  (RT 07)
+4. Ibu Satrio Hari W (RT 08)
+5. Ibu Eti (RT 09)
 
 <a href="#pagetitle">&uarr; Kembali ke daftar isi</a>
 
