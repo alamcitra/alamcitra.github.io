@@ -6,6 +6,18 @@ excerpt: "Galeri Foto Kegiatan Warga di Alam Citra"
 
 <div class="home-gallery">
 
+  <!-- Update Januari 2019 -->
+  <div id="2019-01"></div>
+
+  <figure class="third">
+    <h3>Kerja Bakti dan Serah Terima Kepengurusan PWAC - 20 Januari 2019</h3>
+    {% for i in (1..18) %} <!-- Total 19 -->
+      <a class="image-popup" href="{{ site.url }}/images/2019-januari/kerja-bakti/{{ i }}.jpg">
+        <img src="{{ site.url }}/images/2019-januari/kerja-bakti/thumb/{{ i }}.jpg">
+      </a>
+    {% endfor %}
+  </figure>
+
   <!-- Update November 2018 -->
   <div id="2018-11"></div>
 
